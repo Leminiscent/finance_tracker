@@ -1,4 +1,4 @@
-# Finance_Tracker
+# Finance Tracker
 
 By Lemuel Nogueira
 
@@ -55,7 +55,7 @@ The database is designed to track and manage personal finance activities. It all
 
 ### Relationships
 
-![Finance_Tracker_ERD](erd.png)
+![Finance_Tracker_ERD](erd.webp)
 
 * Accounts are linked to Transactions to track account-specific transactions.
 * Categories are linked to Transactions to categorize each transaction.
