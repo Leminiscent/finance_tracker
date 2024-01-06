@@ -1,6 +1,6 @@
 # Finance Tracker
 
-By Lemuel Nogueira
+**Author**: Lemuel Nogueira
 
 ## Scope
 
