@@ -1,7 +1,5 @@
 # Finance Tracker
 
-**Author**: Lemuel Nogueira
-
 ## Scope
 
 ### Purpose of the Database
